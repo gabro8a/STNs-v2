@@ -9,7 +9,7 @@ We also provide scripts for visualising STNs for single algorithms as well as me
 ### Main STNs Articles
 
 - Gabriela Ochoa, Katherine Malan, Christian Blum (2021) [Search trajectory networks](https://doi.org/10.1016/j.asoc.2021.107492): A tool for analysing and visualising the behaviour of metaheuristics, *Applied Soft Computing*, Elsevier.
-- Camilo Chacón Sartori, Christian Blum, Gabriela Ochoa (2023) [STNWeb](https://doi.org/10.1016/j.simpa.2023.100558.): A new visualization tool for analyzing optimization algorithms, *Software Impacts*, Volume 17,2023, 100558, 
+- Camilo Chacón Sartori, Christian Blum, Gabriela Ochoa (2023) [STNWeb](https://doi.org/10.1016/j.simpa.2023.100558): A new visualization tool for analyzing optimization algorithms, *Software Impacts*, Volume 17,2023, 100558, 
 
 ### Dependencies
 
