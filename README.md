@@ -28,7 +28,7 @@ You need to install the libraries above before running the scripts provided. We 
 
 ## Input Data
 
-We provide two sub-folders (`pmed6` and `pmed7`, within the `data` folder) with examples of input files for two instances of a combinatorial optimisation problem (the *p-median* problem).  The `pmed6` folder has 2 files, whereas `pmed7` has 3 files, each corresponding to a different metaheuristic algorithm. Our convention is  Each file contains the trajectory logs of 10 runs of a single instance-algorithm pair.  
+We provide two sub-folders (`pmed6` and `pmed7`, within the `data` folder) with examples of input files for two instances of a combinatorial optimisation problem (the *p-median* problem).  The `pmed6` folder has 2 files, whereas `pmed7` has 3 files, each corresponding to a different metaheuristic algorithm. Each file contains the trajectory logs of 10 runs of a single instance-algorithm pair.  
 
 
 A naming convention is required for the input files, where the first part of the name indicates the algorithm. For example, the files in the `pmed6` folder are: `aco_out.txt` and `brkga_out.txt`.
